@@ -5,7 +5,7 @@
 👯 I'm always okay with collaborating on a project<br>
 🌱 I’m currently learning Docker<br>
 💬 Ask me about React & NextJs<br>
-📫 How to reach me **lyaforis@gmail.com**<br>
+📫 Reach me at **lyaforis@gmail.com**<br>
 🌐 Visit my [portfolio]()
 
 
