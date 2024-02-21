@@ -6,7 +6,7 @@
 🌱 I’m currently learning Docker<br>
 💬 Ask me about React & NextJs<br>
 📫 Reach me at **lyaforis@gmail.com**<br>
-🌐 Visit my <a href="https://sofiane-lyafori.vercel.app/" target="_blank">**portfolio**</a>
+🌐 Visit my <a **[portfolio](https://sofiane-lyafori.vercel.app/)**
 
 
 ## 🌐 Socials:
