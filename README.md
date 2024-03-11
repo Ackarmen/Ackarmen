@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sofiane</h1>
-<h3 align="center">A passionate front-end developer from France &#128640;</h3>
+<h3 align="center">💻📱 A passionate front-end developer from France &#128640;</h3>
 
 🔭 I’m currently working on a few side projects<br>
 👯 I'm always okay with collaborating on a project<br>
